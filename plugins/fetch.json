@@ -1,0 +1,22 @@
+{
+    "plugin.google.maps": {
+        "source": {
+            "type": "git",
+            "url": "https://github.com/wf9a5m75/phonegap-googlemaps-plugin",
+            "subdir": "."
+        },
+        "is_top_level": true,
+        "variables": {
+            "API_KEY_FOR_ANDROID": "AIzaSyCcZ_AnEKhBqV_KGK5kP7pKR-F1mob30dI",
+            "API_KEY_FOR_IOS": "AIzaSyCUAWx6h4tiNSlLOFWPp-MdfWQb-pu4-rc"
+        }
+    },
+    "cordova-plugin-whitelist": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-whitelist@1"
+        },
+        "is_top_level": true,
+        "variables": {}
+    }
+}
